@@ -1,3 +1,3 @@
-# tela_hamburgueria
+# burgerplace_page
 
-Desenvolvimento pessoal de uma página de hamburgueria fictcia utilizando HTML e CSS.
+Personal development of a fictional burger place page using HTML5 and CSS3.
